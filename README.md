@@ -6,17 +6,13 @@ Missões.
 
 Avaliado com nota 10 pela banca.
 
-___
-
 # CONTEÚDO DESTE REPOSITÓRIO
 
-* [Monografia Completa]()
-* [Resumo](##RESUMO)
-* [Abstract](##ABSTRACT)
+* [Monografia Completa](MONOGRAFIA.pdf)
+* [Resumo](#resumo)
+* [Abstract](#abstract)
+* [Jupyter-Notebook](#jupyter-notebook)
 * [Arquivos do ambiente Jupyter-Notebook](jupyter-notebook)
-* [Arquivos do Jupyter-Notebook](#JUPYTER-NOTEBOOK)
-
-___
 
 # RESUMO E ABSTRACT
 
@@ -51,7 +47,6 @@ of those predictions where presented, and leading to believe that Multivariate
 Linear Regression is the method that brings the most satisfactory results on the
 solution to this problem.
 
-___
 # JUPYTER NOTEBOOK
 
 ## Entrada dos dados
@@ -437,6 +432,5 @@ plt.subplots_adjust(left=0.1, right=0.9, top=0.95, bottom=0.05)
 plt.rcParams.update({'font.size': 10})
 plt.show()
 ```
-
     
 ![png](readme_images/output_24_0.png)
